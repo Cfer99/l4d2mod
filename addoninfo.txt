@@ -1,0 +1,27 @@
+"AddonInfo"
+{
+	AddonTitle          "Zoey => Rabbit Hatsune Miku /Pure Pure (Rabbit Hole)"
+	AddonVersion        "1.0"
+	AddonDescription    "Rabbit Hatsune Miku From Pure Pure (Rabbit Hole)"
+	AddonAuthor         "! WHHWYF Hand Made Models"
+	AddonAuthorSteamID  "୨୧⊹܀🍙Mister Aru🍙୨ "
+	AddonURL0           ""
+
+	AddonSteamAppID  550
+
+	AddonContent_BackgroundMovie 0
+	AddonContent_BossInfected    0
+	AddonContent_Campaign        0
+	AddonContent_CommonInfected  0
+	AddonContent_Map      0
+	AddonContent_Music    0
+	AddonContent_Prefab   0
+	AddonContent_Prop     0 
+	AddonContent_Script   0
+	AddonContent_Skin     1
+	AddonContent_Sound    0
+	AddonContent_Spray    0
+	AddonContent_Survivor 1
+	AddonContent_Weapon      0 
+	AddonContent_WeaponModel 0
+}
