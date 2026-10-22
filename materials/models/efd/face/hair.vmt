@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/efd/Face/Face"
+	"$halflambert" "1"
+	"$nodecal" "1"
+	"$lightwarptexture" "models/efd/Face/Fullbright "
+}
